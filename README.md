@@ -1,2 +1,5 @@
 # hello-world
-Repositório de aprendizagem
+
+Olá!
+
+Estou entrando no mundo do github, estou muito animado.
